@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks on Hugo tranquilpeak theme</title>
-    <link>https://example.org/talk/</link>
+    <link>https://dieuphamit.github.io/MyBlog/talk/</link>
     <description>Recent content in Recent &amp; Upcoming Talks on Hugo tranquilpeak theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://example.org/talk/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dieuphamit.github.io/MyBlog/talk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Coding and Analyzing Qualitative Data</title>
-      <link>https://example.org/talk/coding/</link>
+      <link>https://dieuphamit.github.io/MyBlog/talk/coding/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
       
-      <guid>https://example.org/talk/coding/</guid>
+      <guid>https://dieuphamit.github.io/MyBlog/talk/coding/</guid>
       <description>An example talk using academia&amp;rsquo;s Markdown slides feature.</description>
     </item>
     
     <item>
       <title>Example Talk</title>
-      <link>https://example.org/talk/example/</link>
+      <link>https://dieuphamit.github.io/MyBlog/talk/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
       
-      <guid>https://example.org/talk/example/</guid>
+      <guid>https://dieuphamit.github.io/MyBlog/talk/example/</guid>
       <description>An example talk using Academic&amp;rsquo;s Markdown slides feature.</description>
     </item>
     
     <item>
       <title>Qualitative Research Summer Intensive</title>
-      <link>https://example.org/talk/qualitative/</link>
+      <link>https://dieuphamit.github.io/MyBlog/talk/qualitative/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
       
-      <guid>https://example.org/talk/qualitative/</guid>
+      <guid>https://dieuphamit.github.io/MyBlog/talk/qualitative/</guid>
       <description>An example talk using academia&amp;rsquo;s Markdown slides feature.</description>
     </item>
     
     <item>
       <title>Synthesizing Qualitative Data</title>
-      <link>https://example.org/talk/synthesizing/</link>
+      <link>https://dieuphamit.github.io/MyBlog/talk/synthesizing/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
       
-      <guid>https://example.org/talk/synthesizing/</guid>
+      <guid>https://dieuphamit.github.io/MyBlog/talk/synthesizing/</guid>
       <description>An example talk using academia&amp;rsquo;s Markdown slides feature.</description>
     </item>
     

@@ -2,126 +2,126 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo tranquilpeak theme</title>
-    <link>https://example.org/</link>
+    <link>https://dieuphamit.github.io/MyBlog/</link>
     <description>Recent content on Hugo tranquilpeak theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dieuphamit.github.io/MyBlog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Example Page 1</title>
-      <link>https://example.org/courses/example/example1/</link>
+      <link>https://dieuphamit.github.io/MyBlog/courses/example/example1/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://example.org/courses/example/example1/</guid>
+      <guid>https://dieuphamit.github.io/MyBlog/courses/example/example1/</guid>
       <description>In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:
 Tip 1 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim.</description>
     </item>
     
     <item>
       <title>Example Page 1</title>
-      <link>https://example.org/courses/example.1/example3/</link>
+      <link>https://dieuphamit.github.io/MyBlog/courses/example.1/example3/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://example.org/courses/example.1/example3/</guid>
+      <guid>https://dieuphamit.github.io/MyBlog/courses/example.1/example3/</guid>
       <description>In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academia:
 Tip 1 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim.</description>
     </item>
     
     <item>
       <title>Example Page 1</title>
-      <link>https://example.org/courses/example.2/example3/</link>
+      <link>https://dieuphamit.github.io/MyBlog/courses/example.2/example3/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://example.org/courses/example.2/example3/</guid>
+      <guid>https://dieuphamit.github.io/MyBlog/courses/example.2/example3/</guid>
       <description>In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academia:
 Tip 1 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim.</description>
     </item>
     
     <item>
       <title>Example Page 2</title>
-      <link>https://example.org/courses/example.2/example4/</link>
+      <link>https://dieuphamit.github.io/MyBlog/courses/example.2/example4/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://example.org/courses/example.2/example4/</guid>
+      <guid>https://dieuphamit.github.io/MyBlog/courses/example.2/example4/</guid>
       <description>Here are some more tips for getting started with academia:
 Tip 3 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.</description>
     </item>
     
     <item>
       <title>Example Page 2</title>
-      <link>https://example.org/courses/example/example2/</link>
+      <link>https://dieuphamit.github.io/MyBlog/courses/example/example2/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://example.org/courses/example/example2/</guid>
+      <guid>https://dieuphamit.github.io/MyBlog/courses/example/example2/</guid>
       <description>Here are some more tips for getting started with Academic:
 Tip 3 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.</description>
     </item>
     
     <item>
       <title>Example Page 2</title>
-      <link>https://example.org/courses/example.1/example4/</link>
+      <link>https://dieuphamit.github.io/MyBlog/courses/example.1/example4/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://example.org/courses/example.1/example4/</guid>
+      <guid>https://dieuphamit.github.io/MyBlog/courses/example.1/example4/</guid>
       <description>Here are some more tips for getting started with academia:
 Tip 3 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.</description>
     </item>
     
     <item>
       <title>Coding and Analyzing Qualitative Data</title>
-      <link>https://example.org/talk/coding/</link>
+      <link>https://dieuphamit.github.io/MyBlog/talk/coding/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
       
-      <guid>https://example.org/talk/coding/</guid>
+      <guid>https://dieuphamit.github.io/MyBlog/talk/coding/</guid>
       <description>An example talk using academia&amp;rsquo;s Markdown slides feature.</description>
     </item>
     
     <item>
       <title>Example Talk</title>
-      <link>https://example.org/talk/example/</link>
+      <link>https://dieuphamit.github.io/MyBlog/talk/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
       
-      <guid>https://example.org/talk/example/</guid>
+      <guid>https://dieuphamit.github.io/MyBlog/talk/example/</guid>
       <description>An example talk using Academic&amp;rsquo;s Markdown slides feature.</description>
     </item>
     
     <item>
       <title>Qualitative Research Summer Intensive</title>
-      <link>https://example.org/talk/qualitative/</link>
+      <link>https://dieuphamit.github.io/MyBlog/talk/qualitative/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
       
-      <guid>https://example.org/talk/qualitative/</guid>
+      <guid>https://dieuphamit.github.io/MyBlog/talk/qualitative/</guid>
       <description>An example talk using academia&amp;rsquo;s Markdown slides feature.</description>
     </item>
     
     <item>
       <title>Synthesizing Qualitative Data</title>
-      <link>https://example.org/talk/synthesizing/</link>
+      <link>https://dieuphamit.github.io/MyBlog/talk/synthesizing/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
       
-      <guid>https://example.org/talk/synthesizing/</guid>
+      <guid>https://dieuphamit.github.io/MyBlog/talk/synthesizing/</guid>
       <description>An example talk using academia&amp;rsquo;s Markdown slides feature.</description>
     </item>
     
     <item>
       <title>テスト</title>
-      <link>https://example.org/2020/06/japanese-test/</link>
+      <link>https://dieuphamit.github.io/MyBlog/2020/06/japanese-test/</link>
       <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/2020/06/japanese-test/</guid>
+      <guid>https://dieuphamit.github.io/MyBlog/2020/06/japanese-test/</guid>
       <description>&lt;p&gt;This is a Japanese test post to show you how japanese is displayed.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Twemoji Support 🤩</title>
-      <link>https://example.org/posts/twemoji-support/</link>
+      <link>https://dieuphamit.github.io/MyBlog/posts/twemoji-support/</link>
       <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/posts/twemoji-support/</guid>
+      <guid>https://dieuphamit.github.io/MyBlog/posts/twemoji-support/</guid>
       <description>If you want to use Twitter&amp;rsquo;s Twemoji across your website, enable it in your config.toml
 [params] enableTwemoji = true This will not only give your website unified emojis across all platforms. It will also give you the latest Unicode 13 emoji set, such as 🧋🫕🛻🪗🪞.
 Emoji size changes with text size 🤩 Emoji size changes with text size 🤩 Emoji size changes with text size 🤩 Emoji size changes with text size 🤩 Emoji size changes with text size 🤩 Emoji size changes with text size 🤩  </description>
@@ -129,10 +129,10 @@ Emoji size changes with text size 🤩 Emoji size changes with text size 🤩 Em
     
     <item>
       <title>Writing technical content in Academic</title>
-      <link>https://example.org/2019/07/writing-technical-content-in-academic/</link>
+      <link>https://dieuphamit.github.io/MyBlog/2019/07/writing-technical-content-in-academic/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/2019/07/writing-technical-content-in-academic/</guid>
+      <guid>https://dieuphamit.github.io/MyBlog/2019/07/writing-technical-content-in-academic/</guid>
       <description>Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.
 Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.
 On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Academic.
@@ -141,19 +141,19 @@ Examples Code Academic supports a Markdown extension for highlighting code synta
     
     <item>
       <title>An example preprint / working paper</title>
-      <link>https://example.org/publication/preprint/</link>
+      <link>https://dieuphamit.github.io/MyBlog/publication/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/publication/preprint/</guid>
+      <guid>https://dieuphamit.github.io/MyBlog/publication/preprint/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.</description>
     </item>
     
     <item>
       <title>Render LaTeX using KaTeX</title>
-      <link>https://example.org/posts/render-latex-using-katex/</link>
+      <link>https://dieuphamit.github.io/MyBlog/posts/render-latex-using-katex/</link>
       <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/posts/render-latex-using-katex/</guid>
+      <guid>https://dieuphamit.github.io/MyBlog/posts/render-latex-using-katex/</guid>
       <description>Enable katex by adding katex = &amp;quot;true&amp;quot; to the front matter
 +++ katex = &amp;#34;true&amp;#34; +++ If you want to enable KaTeX or MathJax for all post, add katex = ture or math = true in config.toml in [params] section.
 It&amp;rsquo;s almost a dropin alternative to the mathjax solution,you should just choose one of them.
@@ -163,46 +163,46 @@ This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} = 1$ This is text with
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
-      <link>https://example.org/2019/02/display-jupyter-notebooks-with-academic/</link>
+      <link>https://dieuphamit.github.io/MyBlog/2019/02/display-jupyter-notebooks-with-academic/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/2019/02/display-jupyter-notebooks-with-academic/</guid>
+      <guid>https://dieuphamit.github.io/MyBlog/2019/02/display-jupyter-notebooks-with-academic/</guid>
       <description>Learn how to blog in Academic using Jupyter notebooks</description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>https://example.org/slides/example/</link>
+      <link>https://dieuphamit.github.io/MyBlog/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/slides/example/</guid>
+      <guid>https://dieuphamit.github.io/MyBlog/slides/example/</guid>
       <description>An introduction to using Academic&amp;rsquo;s Slides feature.</description>
     </item>
     
     <item>
       <title>Hugo coder wiki</title>
-      <link>https://example.org/posts/hugo-coder-wiki/</link>
+      <link>https://dieuphamit.github.io/MyBlog/posts/hugo-coder-wiki/</link>
       <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/posts/hugo-coder-wiki/</guid>
+      <guid>https://dieuphamit.github.io/MyBlog/posts/hugo-coder-wiki/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dummy</title>
-      <link>https://example.org/posts/dummy/</link>
+      <link>https://dieuphamit.github.io/MyBlog/posts/dummy/</link>
       <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/posts/dummy/</guid>
+      <guid>https://dieuphamit.github.io/MyBlog/posts/dummy/</guid>
       <description>Nada para ver aqui!</description>
     </item>
     
     <item>
       <title>Theme Demo</title>
-      <link>https://example.org/posts/theme-demo/</link>
+      <link>https://dieuphamit.github.io/MyBlog/posts/theme-demo/</link>
       <pubDate>Sun, 08 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/posts/theme-demo/</guid>
+      <guid>https://dieuphamit.github.io/MyBlog/posts/theme-demo/</guid>
       <description>Style Demo h1 Heading h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading  This is bold text
 This is bold text
 This is italic text
@@ -215,201 +215,201 @@ $$ \sum_{n=1}^{\infty} 2^{-n} = 1 $$
     
     <item>
       <title>Artificial Intelligence</title>
-      <link>https://example.org/project/artificial-intelligence/</link>
+      <link>https://dieuphamit.github.io/MyBlog/project/artificial-intelligence/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/project/artificial-intelligence/</guid>
+      <guid>https://dieuphamit.github.io/MyBlog/project/artificial-intelligence/</guid>
       <description>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam, eius.</description>
     </item>
     
     <item>
       <title>Deep Learning</title>
-      <link>https://example.org/project/deep-learning/</link>
+      <link>https://dieuphamit.github.io/MyBlog/project/deep-learning/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/project/deep-learning/</guid>
+      <guid>https://dieuphamit.github.io/MyBlog/project/deep-learning/</guid>
       <description>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam, eius.</description>
     </item>
     
     <item>
       <title>External Project</title>
-      <link>https://example.org/project/external-project/</link>
+      <link>https://dieuphamit.github.io/MyBlog/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/project/external-project/</guid>
+      <guid>https://dieuphamit.github.io/MyBlog/project/external-project/</guid>
       <description>An example of linking directly to an external project website using &lt;code&gt;external_link&lt;/code&gt;.</description>
     </item>
     
     <item>
       <title>Internal Project</title>
-      <link>https://example.org/project/internal-project/</link>
+      <link>https://dieuphamit.github.io/MyBlog/project/internal-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/project/internal-project/</guid>
+      <guid>https://dieuphamit.github.io/MyBlog/project/internal-project/</guid>
       <description>An example of using the in-built project page.</description>
     </item>
     
     <item>
       <title>Robotics</title>
-      <link>https://example.org/project/robotics/</link>
+      <link>https://dieuphamit.github.io/MyBlog/project/robotics/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/project/robotics/</guid>
+      <guid>https://dieuphamit.github.io/MyBlog/project/robotics/</guid>
       <description>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam, eius.</description>
     </item>
     
     <item>
       <title>Skin Cancer AI</title>
-      <link>https://example.org/project/skin-cancer-ai/</link>
+      <link>https://dieuphamit.github.io/MyBlog/project/skin-cancer-ai/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/project/skin-cancer-ai/</guid>
+      <guid>https://dieuphamit.github.io/MyBlog/project/skin-cancer-ai/</guid>
       <description>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam, eius.</description>
     </item>
     
     <item>
       <title>A Study of Snail Behavior</title>
-      <link>https://example.org/2016/04/a-study-of-snail-behavior/</link>
+      <link>https://dieuphamit.github.io/MyBlog/2016/04/a-study-of-snail-behavior/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/2016/04/a-study-of-snail-behavior/</guid>
+      <guid>https://dieuphamit.github.io/MyBlog/2016/04/a-study-of-snail-behavior/</guid>
       <description>Create a beautifully simple website in under 10 minutes.</description>
     </item>
     
     <item>
       <title>Academic: the website builder for Hugo</title>
-      <link>https://example.org/2016/04/academic-the-website-builder-for-hugo/</link>
+      <link>https://dieuphamit.github.io/MyBlog/2016/04/academic-the-website-builder-for-hugo/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/2016/04/academic-the-website-builder-for-hugo/</guid>
+      <guid>https://dieuphamit.github.io/MyBlog/2016/04/academic-the-website-builder-for-hugo/</guid>
       <description>Create a beautifully simple website in under 10 minutes.</description>
     </item>
     
     <item>
       <title>An example journal article</title>
-      <link>https://example.org/publication/journal-article/</link>
+      <link>https://dieuphamit.github.io/MyBlog/publication/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/publication/journal-article/</guid>
+      <guid>https://dieuphamit.github.io/MyBlog/publication/journal-article/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.</description>
     </item>
     
     <item>
       <title>Welcome to Tranquilpeak 0.4.8-BETA</title>
-      <link>https://example.org/2015/06/welcome-to-tranquilpeak-0.4.8-beta/</link>
+      <link>https://dieuphamit.github.io/MyBlog/2015/06/welcome-to-tranquilpeak-0.4.8-beta/</link>
       <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/2015/06/welcome-to-tranquilpeak-0.4.8-beta/</guid>
+      <guid>https://dieuphamit.github.io/MyBlog/2015/06/welcome-to-tranquilpeak-0.4.8-beta/</guid>
       <description>&lt;p&gt;Tranquilpeak is a gorgeous responsive theme for Hugo blog framework. It has many features and integrated services to improve user experience.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Who&#39;s using Tranquilpeak Hugo Theme</title>
-      <link>https://example.org/2015/06/who-is-using-tranquilpeak-hugo-theme/</link>
+      <link>https://dieuphamit.github.io/MyBlog/2015/06/who-is-using-tranquilpeak-hugo-theme/</link>
       <pubDate>Sun, 14 Jun 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/2015/06/who-is-using-tranquilpeak-hugo-theme/</guid>
+      <guid>https://dieuphamit.github.io/MyBlog/2015/06/who-is-using-tranquilpeak-hugo-theme/</guid>
       <description>&lt;p&gt;Here you can find a list of the blogs that use Tranquilpeak theme, with different styles and customizations.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Elements showcase</title>
-      <link>https://example.org/2015/05/elements-showcase/</link>
+      <link>https://dieuphamit.github.io/MyBlog/2015/05/elements-showcase/</link>
       <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/2015/05/elements-showcase/</guid>
+      <guid>https://dieuphamit.github.io/MyBlog/2015/05/elements-showcase/</guid>
       <description>&lt;p&gt;Check out how Tranquilpeak theme display well HTML elements (title, paragraph, blockquote, table and more..). It&amp;rsquo;s simple and elegant.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Cover image showcase</title>
-      <link>https://example.org/2015/05/cover-image-showcase/</link>
+      <link>https://dieuphamit.github.io/MyBlog/2015/05/cover-image-showcase/</link>
       <pubDate>Wed, 13 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/2015/05/cover-image-showcase/</guid>
+      <guid>https://dieuphamit.github.io/MyBlog/2015/05/cover-image-showcase/</guid>
       <description>&lt;p&gt;Tranquilpeak integrate a unique &amp;ldquo;cover image&amp;rdquo; feature. Open this post to see how this feature sublimate your article.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>highlighted code showcase</title>
-      <link>https://example.org/2015/03/highlighted-code-showcase/</link>
+      <link>https://dieuphamit.github.io/MyBlog/2015/03/highlighted-code-showcase/</link>
       <pubDate>Mon, 23 Mar 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/2015/03/highlighted-code-showcase/</guid>
+      <guid>https://dieuphamit.github.io/MyBlog/2015/03/highlighted-code-showcase/</guid>
       <description>&lt;p&gt;Tranquilpeak Hugo theme have its own theme to highlight source code. It&amp;rsquo;s based on GitHub theme: simple and elegant. Check out how it sublimate source codes.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Tags plugins showcase</title>
-      <link>https://example.org/2014/10/tags-plugins-showcase/</link>
+      <link>https://dieuphamit.github.io/MyBlog/2014/10/tags-plugins-showcase/</link>
       <pubDate>Wed, 29 Oct 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/2014/10/tags-plugins-showcase/</guid>
+      <guid>https://dieuphamit.github.io/MyBlog/2014/10/tags-plugins-showcase/</guid>
       <description>&lt;p&gt;This post is used to show how tag plugins are displayed. See &lt;a href=&#34;https://github.com/kakawait/hugo-tranquilpeak-theme/blob/master/docs/user.md#tags&#34;&gt;docs&lt;/a&gt; for more info.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Creating a New Theme</title>
-      <link>https://example.org/posts/creating-a-new-theme/</link>
+      <link>https://dieuphamit.github.io/MyBlog/posts/creating-a-new-theme/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/posts/creating-a-new-theme/</guid>
+      <guid>https://dieuphamit.github.io/MyBlog/posts/creating-a-new-theme/</guid>
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
 We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
     </item>
     
     <item>
       <title>Hidden social section showcase</title>
-      <link>https://example.org/2014/08/hidden-social-section-showcase/</link>
+      <link>https://dieuphamit.github.io/MyBlog/2014/08/hidden-social-section-showcase/</link>
       <pubDate>Sun, 17 Aug 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/2014/08/hidden-social-section-showcase/</guid>
+      <guid>https://dieuphamit.github.io/MyBlog/2014/08/hidden-social-section-showcase/</guid>
       <description>&lt;p&gt;This post is used to show how a site looks if the social section is hidden.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Hidden tag section showcase</title>
-      <link>https://example.org/2014/08/hidden-tag-section-showcase/</link>
+      <link>https://dieuphamit.github.io/MyBlog/2014/08/hidden-tag-section-showcase/</link>
       <pubDate>Sat, 16 Aug 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/2014/08/hidden-tag-section-showcase/</guid>
+      <guid>https://dieuphamit.github.io/MyBlog/2014/08/hidden-tag-section-showcase/</guid>
       <description>&lt;p&gt;This post is used to show how a site looks if the tag section is hidden.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Hidden pagination showcase</title>
-      <link>https://example.org/2014/08/hidden-pagination-showcase/</link>
+      <link>https://dieuphamit.github.io/MyBlog/2014/08/hidden-pagination-showcase/</link>
       <pubDate>Fri, 15 Aug 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/2014/08/hidden-pagination-showcase/</guid>
+      <guid>https://dieuphamit.github.io/MyBlog/2014/08/hidden-pagination-showcase/</guid>
       <description>&lt;p&gt;This post is used to show how a site looks if the pagination is hidden.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Video integrations showcase</title>
-      <link>https://example.org/2014/08/video-integrations-showcase/</link>
+      <link>https://dieuphamit.github.io/MyBlog/2014/08/video-integrations-showcase/</link>
       <pubDate>Sat, 09 Aug 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/2014/08/video-integrations-showcase/</guid>
+      <guid>https://dieuphamit.github.io/MyBlog/2014/08/video-integrations-showcase/</guid>
       <description>&lt;p&gt;Youtube and Vimeo videos are easily integrated thanks to tags plugins. Of course, you can add video other platforms like dailymotion.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>(Hu)go Template Primer</title>
-      <link>https://example.org/posts/hugo-template-primer/</link>
+      <link>https://dieuphamit.github.io/MyBlog/posts/hugo-template-primer/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/posts/hugo-template-primer/</guid>
+      <guid>https://dieuphamit.github.io/MyBlog/posts/hugo-template-primer/</guid>
       <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
 This document is a brief primer on using go templates.</description>
     </item>
     
     <item>
       <title>Getting Started with Hugo</title>
-      <link>https://example.org/posts/hugoisforlovers/</link>
+      <link>https://dieuphamit.github.io/MyBlog/posts/hugoisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/posts/hugoisforlovers/</guid>
+      <guid>https://dieuphamit.github.io/MyBlog/posts/hugoisforlovers/</guid>
       <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
 Save it somewhere specific as we will be using it in the next step.
 More complete instructions are available at installing hugo
@@ -420,55 +420,55 @@ Follow the following steps:
     
     <item>
       <title>Migrate to Hugo from Jekyll</title>
-      <link>https://example.org/posts/migrate-from-jekyll/</link>
+      <link>https://dieuphamit.github.io/MyBlog/posts/migrate-from-jekyll/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/posts/migrate-from-jekyll/</guid>
+      <guid>https://dieuphamit.github.io/MyBlog/posts/migrate-from-jekyll/</guid>
       <description>Table of Contents  Move static content to static Create your Hugo configuration file Set your configuration publish folder to site Convert Jekyll templates to Hugo templates Convert Jekyll plugins to Hugo shortcodes  Implementation Usage   Finishing Touches  Fix Content Clean Up   A practical example in a diff  Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output.</description>
     </item>
     
     <item>
       <title>中文測試</title>
-      <link>https://example.org/2013/10/chinese-test/</link>
+      <link>https://dieuphamit.github.io/MyBlog/2013/10/chinese-test/</link>
       <pubDate>Wed, 02 Oct 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/2013/10/chinese-test/</guid>
+      <guid>https://dieuphamit.github.io/MyBlog/2013/10/chinese-test/</guid>
       <description>&lt;p&gt;This is a chinese test post to show you how chinese is displayed.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>An example conference paper</title>
-      <link>https://example.org/publication/conference-paper/</link>
+      <link>https://dieuphamit.github.io/MyBlog/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/publication/conference-paper/</guid>
+      <guid>https://dieuphamit.github.io/MyBlog/publication/conference-paper/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.</description>
     </item>
     
     <item>
       <title>Image gallery showcase</title>
-      <link>https://example.org/2013/02/image-gallery-showcase/</link>
+      <link>https://dieuphamit.github.io/MyBlog/2013/02/image-gallery-showcase/</link>
       <pubDate>Mon, 18 Feb 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/2013/02/image-gallery-showcase/</guid>
+      <guid>https://dieuphamit.github.io/MyBlog/2013/02/image-gallery-showcase/</guid>
       <description>&lt;p&gt;And here is the image gallery!&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>日本語テスト</title>
-      <link>https://example.org/2013/01/japanese-test/</link>
+      <link>https://dieuphamit.github.io/MyBlog/2013/01/japanese-test/</link>
       <pubDate>Wed, 02 Jan 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/2013/01/japanese-test/</guid>
+      <guid>https://dieuphamit.github.io/MyBlog/2013/01/japanese-test/</guid>
       <description>&lt;p&gt;This is a Japanese test post to show you how japanese is displayed.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>About Hugo</title>
-      <link>https://example.org/about/</link>
+      <link>https://dieuphamit.github.io/MyBlog/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/about/</guid>
+      <guid>https://dieuphamit.github.io/MyBlog/about/</guid>
       <description>Hugo is a static site engine written in Go.
 It makes use of a variety of open source projects including:
  Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.
@@ -478,66 +478,66 @@ Setup Some fun facts about Hugo:
     
     <item>
       <title>Contact</title>
-      <link>https://example.org/contact/</link>
+      <link>https://dieuphamit.github.io/MyBlog/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/contact/</guid>
+      <guid>https://dieuphamit.github.io/MyBlog/contact/</guid>
       <description>Follow me, @johndoe.</description>
     </item>
     
     <item>
       <title>Contato</title>
-      <link>https://example.org/contact/</link>
+      <link>https://dieuphamit.github.io/MyBlog/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/contact/</guid>
+      <guid>https://dieuphamit.github.io/MyBlog/contact/</guid>
       <description>Me siga em @joaoninguem.</description>
     </item>
     
     <item>
       <title>First snippet</title>
-      <link>https://example.org/snippets/first/</link>
+      <link>https://dieuphamit.github.io/MyBlog/snippets/first/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/snippets/first/</guid>
+      <guid>https://dieuphamit.github.io/MyBlog/snippets/first/</guid>
       <description>This content is in snippets/first/index.md
 pwd </description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://example.org/projects/</link>
+      <link>https://dieuphamit.github.io/MyBlog/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/projects/</guid>
+      <guid>https://dieuphamit.github.io/MyBlog/projects/</guid>
       <description>Nothing to see here&amp;hellip; Move along!</description>
     </item>
     
     <item>
       <title>Projetos</title>
-      <link>https://example.org/projects/</link>
+      <link>https://dieuphamit.github.io/MyBlog/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/projects/</guid>
+      <guid>https://dieuphamit.github.io/MyBlog/projects/</guid>
       <description>Em construção&amp;hellip; Aguarde!</description>
     </item>
     
     <item>
       <title>Second snippet</title>
-      <link>https://example.org/snippets/second/</link>
+      <link>https://dieuphamit.github.io/MyBlog/snippets/second/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/snippets/second/</guid>
+      <guid>https://dieuphamit.github.io/MyBlog/snippets/second/</guid>
       <description>This content is in snippets/second/index.md
 ls -la </description>
     </item>
     
     <item>
       <title>Sobre Hugo</title>
-      <link>https://example.org/about/</link>
+      <link>https://dieuphamit.github.io/MyBlog/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/about/</guid>
+      <guid>https://dieuphamit.github.io/MyBlog/about/</guid>
       <description>Em construção&amp;hellip; Aguarde!</description>
     </item>
     

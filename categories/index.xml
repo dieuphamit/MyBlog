@@ -2,93 +2,93 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Hugo tranquilpeak theme</title>
-    <link>https://example.org/categories/</link>
+    <link>https://dieuphamit.github.io/MyBlog/categories/</link>
     <description>Recent content in Categories on Hugo tranquilpeak theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 18 Jun 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dieuphamit.github.io/MyBlog/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>features</title>
-      <link>https://example.org/categories/features/</link>
+      <link>https://dieuphamit.github.io/MyBlog/categories/features/</link>
       <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/categories/features/</guid>
+      <guid>https://dieuphamit.github.io/MyBlog/categories/features/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tranquilpeak</title>
-      <link>https://example.org/categories/tranquilpeak/</link>
+      <link>https://dieuphamit.github.io/MyBlog/categories/tranquilpeak/</link>
       <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/categories/tranquilpeak/</guid>
+      <guid>https://dieuphamit.github.io/MyBlog/categories/tranquilpeak/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Development</title>
-      <link>https://example.org/categories/development/</link>
+      <link>https://dieuphamit.github.io/MyBlog/categories/development/</link>
       <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/categories/development/</guid>
+      <guid>https://dieuphamit.github.io/MyBlog/categories/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>blog</title>
-      <link>https://example.org/categories/blog/</link>
+      <link>https://dieuphamit.github.io/MyBlog/categories/blog/</link>
       <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/categories/blog/</guid>
+      <guid>https://dieuphamit.github.io/MyBlog/categories/blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Demo</title>
-      <link>https://example.org/categories/demo/</link>
+      <link>https://dieuphamit.github.io/MyBlog/categories/demo/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/categories/demo/</guid>
+      <guid>https://dieuphamit.github.io/MyBlog/categories/demo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>教程</title>
-      <link>https://example.org/categories/%E6%95%99%E7%A8%8B/</link>
+      <link>https://dieuphamit.github.io/MyBlog/categories/%E6%95%99%E7%A8%8B/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/categories/%E6%95%99%E7%A8%8B/</guid>
+      <guid>https://dieuphamit.github.io/MyBlog/categories/%E6%95%99%E7%A8%8B/</guid>
       <description></description>
     </item>
     
     <item>
       <title>releases</title>
-      <link>https://example.org/categories/releases/</link>
+      <link>https://dieuphamit.github.io/MyBlog/categories/releases/</link>
       <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/categories/releases/</guid>
+      <guid>https://dieuphamit.github.io/MyBlog/categories/releases/</guid>
       <description></description>
     </item>
     
     <item>
       <title>showcase</title>
-      <link>https://example.org/categories/showcase/</link>
+      <link>https://dieuphamit.github.io/MyBlog/categories/showcase/</link>
       <pubDate>Sun, 14 Jun 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/categories/showcase/</guid>
+      <guid>https://dieuphamit.github.io/MyBlog/categories/showcase/</guid>
       <description></description>
     </item>
     
     <item>
       <title>golang</title>
-      <link>https://example.org/categories/golang/</link>
+      <link>https://dieuphamit.github.io/MyBlog/categories/golang/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/categories/golang/</guid>
+      <guid>https://dieuphamit.github.io/MyBlog/categories/golang/</guid>
       <description></description>
     </item>
     
